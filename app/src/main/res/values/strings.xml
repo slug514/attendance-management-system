@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">attendeasev2</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="Signup">Sign-Up</string>
+    <string name="name">Full Name</string>
+    <string name="userType">Enter Student/Teacher</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="college_id">College ID</string>
+    <string name="hello_world">Hello World</string>
+    <string name="add_student">Add Student</string>
+    <string name="take_attendance">Take Attendance</string>
+    <string name="remove_student">Remove Student</string>
+    <string name="done">Done</string>
+    <string name="rollno">Roll Number</string>
+    <string name="attendence_list">Attendance List</string>
+    <string name="back">back</string>
+    <string name="add_attendance">Add Attendance</string>
+    <string name="get_data">Get Data</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textview">text view</string>
+    <string name="enterClass">Enter class</string>
+    <string name="enterSubject">Enter Subject</string>
+    <string name="SignupT">Teacher Sign-Up</string>
+    <string name="T_reg">Click for Teacher registration</string>
+    <string name="S_reg">Click for Student Registration</string>
+    <string name="rollNumber">Enter RollNumber</string>
+    <string name="SignupS">Student Signup</string>
+    <string name="attendance_details">Attendance Details</string>
+    <string name="save_attn">Save Attendance</string>
+    <string name="enterdate">Enter Date</string>
+</resources>

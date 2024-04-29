@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="136dp"
+    android:paddingTop="96dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    android:background="@drawable/attend"
+    tools:context=".MainTeacher">
+
+    <Button
+        android:id="@+id/addstud"
+        android:layout_width="126dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/add_student"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="137dp" />
+
+    <Button
+        android:id="@+id/takeattn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#8BC34A"
+        android:text="@string/take_attendance"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="242dp" />
+
+<!--    <Button-->
+<!--        android:id="@+id/removestd"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:backgroundTint="#8BC34A"-->
+<!--        android:text="@string/remove_student"-->
+<!--        android:gravity="center"-->
+<!--        tools:layout_editor_absoluteX="133dp"-->
+<!--        tools:layout_editor_absoluteY="242dp" />-->
+
+    <Button
+        android:id="@+id/attnlist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/attendence_list"
+        tools:layout_editor_absoluteX="133dp"
+        tools:layout_editor_absoluteY="341dp" />
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/back" />
+</LinearLayout>

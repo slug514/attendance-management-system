@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "311443212323",
+    "firebase_url": "https://attendeease-fdaee-default-rtdb.firebaseio.com",
+    "project_id": "attendeease-fdaee",
+    "storage_bucket": "attendeease-fdaee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311443212323:android:55012ea1f5919bcfbfc996",
+        "android_client_info": {
+          "package_name": "com.example.attendeasev0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3omFI0P9jUkGPJOfl6qZUq6ntlZiXrwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311443212323:android:1bc8c6f9ed8134c7bfc996",
+        "android_client_info": {
+          "package_name": "com.example.attendeasev2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3omFI0P9jUkGPJOfl6qZUq6ntlZiXrwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311443212323:android:beaabd3098a2c621bfc996",
+        "android_client_info": {
+          "package_name": "com.example.myfirstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3omFI0P9jUkGPJOfl6qZUq6ntlZiXrwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
